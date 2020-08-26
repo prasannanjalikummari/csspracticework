@@ -1,0 +1,22 @@
+body{
+    background-color:whitesmoke;
+}
+.container{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    border: thin solid black;
+    width: 20%;
+    height: 30%;
+    margin: 2px;
+    padding: 5px;
+    background: whitesmoke;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size:x-large;
+    }
+h4{
+font-size: large;
+    }
